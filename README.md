@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anand-no1
 - 👀 I’m interested in coding/programming.
-- 🌱 I’m currently learning HTNL,CSS,.JAVASCRIPT ETC...
-- 💞️ I’m looking to collaborate on BACKEND DEVELOPERS..
+- 🌱 I’m currently learning HTML5,CSS,.JAVASCRIPT ETC...
+- 💞️ I’m looking to collaborate with BACKEND DEVELOPERS..
 - 📫 How to reach me -
 - GET IN TOUCH WITH ME AT THIS EMAIL ADDRESS-gamerpoor83@gmail.com
 
